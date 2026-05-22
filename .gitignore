@@ -1,0 +1,26 @@
+# Python
+venv/
+__pycache__/
+
+# Environment
+.env
+
+# Node
+node_modules/
+
+# Data
+csv/
+exports/
+data/
+
+# Ollama / Models
+models/
+ollama/
+*.gguf
+*.bin
+
+# Mac
+.DS_Store
+
+# Streamlit
+.streamlit/
